@@ -8,11 +8,11 @@ web3validator provides much more than security! We are actively participating in
 
 
 ### Mainnet
-* [Install node](https://github.com/MaxMavaIll/Guide_Web_Aura#install-binary)
-* [State sync](https://github.com/MaxMavaIll/Guide_Web_Aura#state-sync)
+* [Install node](https://github.com/web3validator/Guide_Web_Aura#install-binary)
+* [State sync](https://github.com/web3validator/Guide_Web_Aura#state-sync)
 
 ### Testnet
-* [State sync test](https://github.com/MaxMavaIll/Guide_Web_Aura/blob/main/README.md#state-sync-testnet)
+* [State sync test](https://github.com/web3validator/Guide_Web_Aura/blob/main/README.md#state-sync-testnet)
 
 
 ## RPC
@@ -48,7 +48,7 @@ wget http://65.108.66.34/addrbook_juno.json -O $HOME/.juno/config/addrbook.json
 wget http://65.108.66.34/junod.service -P /etc/systemd/system/
 
 ```
-If you want to quickly catch up with the network, use this [State Sync](https://github.com/MaxMavaIll/Guide_Web_Aura#state-sync)
+If you want to quickly catch up with the network, use this [State Sync](https://github.com/web3validator/Guide_Web_Aura#state-sync)
 
 ```
 sudo systemctl start junod && sudo journalctl -u junod -f --no-hostname -o cat
