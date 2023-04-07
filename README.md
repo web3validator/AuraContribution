@@ -43,6 +43,10 @@ cd $HOME/aura
 make install
 
 ```
+```
+aurad init web34ever --chain-id xstaxy-1
+```
+
 ### Genesis
 ```
 wget http://aura2.web3validator.info/genesis_aura.json -O $HOME/.aura/config/genesis.json
