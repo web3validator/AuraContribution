@@ -26,8 +26,10 @@ https://t.me/AuraUpTime_bot
 ```
 # RPC Endpoint
 http://aura.web3validator.info:27557
+  
 # LCD (Rest) API Endpoint
 http://aura.web3validator.info:1417
+  
 # GRPC Endpoint
 http://aura.web3validator.info:9750
 ```
