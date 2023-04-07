@@ -1,7 +1,5 @@
-# Aura's contribution 
 
-
-### web3validator
+### web34ever
 ```
 web3validator provides much more than security! We are actively participating in the development of the Network and Community by providing informational, technical and humanitarian support!
 ```
