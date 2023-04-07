@@ -88,7 +88,7 @@ sudo systemctl start aurad && sudo journalctl -u aurad -f --no-hostname -o cat
 </details>
 
   ```
-  SNAP_RPС="http://aura.web3validator.info:27557"
+  SNAP_RPC="http://aura.web3validator.info:27557"
   peers="7c032300fb320d452624f9a2e8c485a41fb427e9@aura.web3validator.info:27556"
   ```
   
