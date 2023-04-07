@@ -5,7 +5,9 @@
 ```
 web3validator provides much more than security! We are actively participating in the development of the Network and Community by providing informational, technical and humanitarian support!
 ```
+Telegram Uptime checker more [here](https://github.com/web3validator/SomethingAboutMyself/blob/main/web34ever-self-identity.md#uptime-checker-bot)
 
+https://t.me/AuraUpTime_bot
 
 ### Mainnet
 * [Public API](https://github.com/web3validator/Guide_Web_Aura#public-api)
@@ -20,11 +22,11 @@ web3validator provides much more than security! We are actively participating in
 
 ```
 # RPC Endpoint
-http://95.217.207.236:27557
+http://aura.web3validator.info:27557
 # LCD (Rest) API Endpoint
-http://95.217.207.236:1417
+http://aura.web3validator.info:1417
 # GRPC Endpoint
-http://95.217.207.236:9750
+http://aura.web3validator.info:9750
 ```
 </details>
 
@@ -40,17 +42,17 @@ make install
 ```
 ### Genesis
 ```
-wget http://65.108.66.34/genesis_aura.json -O $HOME/.aura/config/genesis.json
+wget http://aura2.web3validator.info/genesis_aura.json -O $HOME/.aura/config/genesis.json
 
 ```
 ### Adderbook
 ```
-wget http://65.108.66.34/addrbook_aura.json -O $HOME/.aura/config/addrbook.json
+wget http://aura2.web3validator.info/addrbook_aura.json -O $HOME/.aura/config/addrbook.json
 
 ```
 ### You need to install `aurad.service`
 ```
-wget http://65.108.66.34/aurad.service -P /etc/systemd/system/
+wget http://aura2.web3validator.info/aurad.service -P /etc/systemd/system/
 
 ```
 If you want to quickly catch up with the network, use this [State Sync](https://github.com/web3validator/Guide_Web_Aura#state-sync)
@@ -77,7 +79,7 @@ sudo systemctl start aurad && sudo journalctl -u aurad -f --no-hostname -o cat
 </details>
 
   ```
-  SNAP_RPС="http://95.217.207.236:27557"
+  SNAP_RPС="http://aura.web3validator.info:27557"
   peers="7c032300fb320d452624f9a2e8c485a41fb427e9@95.217.207.236:27556"
   ```
   
