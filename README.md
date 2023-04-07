@@ -38,7 +38,7 @@ http://aura.web3validator.info:9750
 You can check new version here ([New_version_bin](https://github.com/aura-nw/aura/releases))
 ```
 cd $HOME
-git https://github.com/aura-nw/aura.git -b aura_v0.4.4
+git clone https://github.com/aura-nw/aura.git -b aura_v0.4.4
 cd $HOME/aura
 make install
 
