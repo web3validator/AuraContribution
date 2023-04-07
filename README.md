@@ -5,9 +5,9 @@ web3validator provides much more than security! We are actively participating in
 ```
 Telegram Uptime checker more [here](https://github.com/web3validator/SomethingAboutMyself/blob/main/web34ever-self-identity.md#uptime-checker-bot)
 
-https://t.me/AuraUpTime_bot
-<img width="399" alt="image" src="https://user-images.githubusercontent.com/59205554/230627135-067c1d73-0235-4732-8567-8708c099a520.png">
 
+# <img width="399" alt="image" src="https://user-images.githubusercontent.com/59205554/230627135-067c1d73-0235-4732-8567-8708c099a520.png">
+https://t.me/AuraUpTime_bot
 <img width="394" alt="image" src="https://user-images.githubusercontent.com/59205554/230626767-8fee34e3-ac7d-4b67-9eef-0f2b86e201c4.png">
 
 
