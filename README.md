@@ -54,7 +54,7 @@ aurad init web34ever --chain-id xstaxy-1
 wget http://aura2.web3validator.info/genesis_aura.json -O $HOME/.aura/config/genesis.json
 
 ```
-### Adderbook
+### Addrbook
 ```
 wget http://aura2.web3validator.info/addrbook_aura.json -O $HOME/.aura/config/addrbook.json
 
